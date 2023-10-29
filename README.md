@@ -1,3 +1,1 @@
-# odin-recipes
-Recipes
-Simple html webpage with recipes 
+Simple webpage with three recipes.
